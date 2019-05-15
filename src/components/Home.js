@@ -9,8 +9,8 @@ class Home extends Component {
                     <p className="home__description">Description</p>
                     <p className="home__link">Link</p>
                     <div className="home__group">
-                        <button className="home__groupButton1">Yes</button>
-                        <button className="home__groupButton2">No</button>
+                        <i class="home__groupButton1 far fa-arrow-alt-circle-up"></i>
+                        <i class="home__groupButton1 far fa-arrow-alt-circle-down"></i>
                     </div>
                 </div>
             </div>
