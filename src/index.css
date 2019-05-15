@@ -10,10 +10,19 @@
   padding: 2rem;
 }
 
+.home__gen{
+  font-size: 2rem;
+  text-align: center;
+}
+
 .home__container{
   padding: .5rem;
   border: 1px solid black;
   min-height: 15rem;
+}
+
+.home__title{
+  margin-bottom: .5rem;
 }
 
 .home__description{
@@ -29,6 +38,8 @@
 
 .home__link{
   margin-bottom: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
 }
 
 .home__groupButton1{
