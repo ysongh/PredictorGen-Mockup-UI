@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import List from "./List";
 
 class Home extends Component {
     render(){
@@ -14,6 +15,7 @@ class Home extends Component {
                         <i class="home__groupButton1 far fa-arrow-alt-circle-down"></i>
                     </div>
                 </div>
+                <List />
             </div>
             
         );
